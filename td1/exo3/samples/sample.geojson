@@ -1,0 +1,3597 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Aiglun",
+                "code": "06001",
+                "codeDepartement": "06",
+                "siren": "210600011",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 99
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9348,
+                    43.8552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Amirat",
+                "code": "06002",
+                "codeDepartement": "06",
+                "siren": "210600029",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 49
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8108,
+                    43.8973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Andon",
+                "code": "06003",
+                "codeDepartement": "06",
+                "siren": "210600037",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06750"
+                ],
+                "population": 652
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8211,
+                    43.7755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Antibes",
+                "code": "06004",
+                "codeDepartement": "06",
+                "siren": "210600045",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06160",
+                    "06600"
+                ],
+                "population": 76612
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1048,
+                    43.5823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Ascros",
+                "code": "06005",
+                "codeDepartement": "06",
+                "siren": "210600052",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 180
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0159,
+                    43.9171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Aspremont",
+                "code": "06006",
+                "codeDepartement": "06",
+                "siren": "210600060",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06790"
+                ],
+                "population": 2321
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2423,
+                    43.7772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Auribeau-sur-Siagne",
+                "code": "06007",
+                "codeDepartement": "06",
+                "siren": "210600078",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06810"
+                ],
+                "population": 3346
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9118,
+                    43.6105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Auvare",
+                "code": "06008",
+                "codeDepartement": "06",
+                "siren": "210600086",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9133,
+                    44.0062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Bairols",
+                "code": "06009",
+                "codeDepartement": "06",
+                "siren": "210600094",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 133
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1174,
+                    43.9856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Le Bar-sur-Loup",
+                "code": "06010",
+                "codeDepartement": "06",
+                "siren": "210600102",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06620"
+                ],
+                "population": 2960
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9674,
+                    43.6993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Beaulieu-sur-Mer",
+                "code": "06011",
+                "codeDepartement": "06",
+                "siren": "210600110",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06310"
+                ],
+                "population": 3835
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3324,
+                    43.7081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Beausoleil",
+                "code": "06012",
+                "codeDepartement": "06",
+                "siren": "210600128",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06240"
+                ],
+                "population": 12430
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4227,
+                    43.7471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Belvédère",
+                "code": "06013",
+                "codeDepartement": "06",
+                "siren": "210600136",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06450"
+                ],
+                "population": 595
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3612,
+                    44.0615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Bendejun",
+                "code": "06014",
+                "codeDepartement": "06",
+                "siren": "210600144",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06390"
+                ],
+                "population": 961
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2841,
+                    43.8309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Berre-les-Alpes",
+                "code": "06015",
+                "codeDepartement": "06",
+                "siren": "210600151",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06390"
+                ],
+                "population": 1234
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3306,
+                    43.8342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Beuil",
+                "code": "06016",
+                "codeDepartement": "06",
+                "siren": "210600169",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 553
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9693,
+                    44.1176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Bézaudun-les-Alpes",
+                "code": "06017",
+                "codeDepartement": "06",
+                "siren": "210600177",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06510"
+                ],
+                "population": 260
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0908,
+                    43.8026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Biot",
+                "code": "06018",
+                "codeDepartement": "06",
+                "siren": "210600185",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06410"
+                ],
+                "population": 10196
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0821,
+                    43.6273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Blausasc",
+                "code": "06019",
+                "codeDepartement": "06",
+                "siren": "210600193",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06440"
+                ],
+                "population": 1664
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.357,
+                    43.7938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Bollène-Vésubie",
+                "code": "06020",
+                "codeDepartement": "06",
+                "siren": "210600201",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06450"
+                ],
+                "population": 659
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3749,
+                    43.9945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Bonson",
+                "code": "06021",
+                "codeDepartement": "06",
+                "siren": "210600219",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06830"
+                ],
+                "population": 728
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1786,
+                    43.8613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Bouyon",
+                "code": "06022",
+                "codeDepartement": "06",
+                "siren": "210600227",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06510"
+                ],
+                "population": 550
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.125,
+                    43.8272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Breil-sur-Roya",
+                "code": "06023",
+                "codeDepartement": "06",
+                "siren": "210600235",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06540"
+                ],
+                "population": 2292
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4996,
+                    43.9379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Briançonnet",
+                "code": "06024",
+                "codeDepartement": "06",
+                "siren": "210600243",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06850"
+                ],
+                "population": 168
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7325,
+                    43.8654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Le Broc",
+                "code": "06025",
+                "codeDepartement": "06",
+                "siren": "210600250",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06510"
+                ],
+                "population": 1432
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1621,
+                    43.8146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Cabris",
+                "code": "06026",
+                "codeDepartement": "06",
+                "siren": "210600268",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06530"
+                ],
+                "population": 1421
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8782,
+                    43.6602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Cagnes-sur-Mer",
+                "code": "06027",
+                "codeDepartement": "06",
+                "siren": "210600276",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06800"
+                ],
+                "population": 52852
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1502,
+                    43.6712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Caille",
+                "code": "06028",
+                "codeDepartement": "06",
+                "siren": "210600284",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06750"
+                ],
+                "population": 423
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7544,
+                    43.7686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Cannes",
+                "code": "06029",
+                "codeDepartement": "06",
+                "siren": "210600292",
+                "codeEpci": "200039915",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06150",
+                    "06400"
+                ],
+                "population": 74040
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0152,
+                    43.5454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Le Cannet",
+                "code": "06030",
+                "codeDepartement": "06",
+                "siren": "210600300",
+                "codeEpci": "200039915",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06110"
+                ],
+                "population": 40198
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.001,
+                    43.5745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Cantaron",
+                "code": "06031",
+                "codeDepartement": "06",
+                "siren": "210600318",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06340"
+                ],
+                "population": 1276
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3147,
+                    43.7694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Cap-d'Ail",
+                "code": "06032",
+                "codeDepartement": "06",
+                "siren": "210600326",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06320"
+                ],
+                "population": 4491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4008,
+                    43.7256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Carros",
+                "code": "06033",
+                "codeDepartement": "06",
+                "siren": "210600334",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06510"
+                ],
+                "population": 13729
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1798,
+                    43.785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Castagniers",
+                "code": "06034",
+                "codeDepartement": "06",
+                "siren": "210600342",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06670"
+                ],
+                "population": 1674
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2298,
+                    43.79
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Castellar",
+                "code": "06035",
+                "codeDepartement": "06",
+                "siren": "210600359",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06500"
+                ],
+                "population": 1042
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4989,
+                    43.8227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Castillon",
+                "code": "06036",
+                "codeDepartement": "06",
+                "siren": "210600367",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06500"
+                ],
+                "population": 422
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4627,
+                    43.8371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Caussols",
+                "code": "06037",
+                "codeDepartement": "06",
+                "siren": "210600375",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06460"
+                ],
+                "population": 322
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9071,
+                    43.7387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Châteauneuf-Grasse",
+                "code": "06038",
+                "codeDepartement": "06",
+                "siren": "210600383",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06740"
+                ],
+                "population": 3765
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9792,
+                    43.6626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Châteauneuf-Villevieille",
+                "code": "06039",
+                "codeDepartement": "06",
+                "siren": "210600391",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06390"
+                ],
+                "population": 985
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2951,
+                    43.8007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Châteauneuf-d'Entraunes",
+                "code": "06040",
+                "codeDepartement": "06",
+                "siren": "210600409",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 63
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8405,
+                    44.1584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Cipières",
+                "code": "06041",
+                "codeDepartement": "06",
+                "siren": "210600417",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06620"
+                ],
+                "population": 398
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9229,
+                    43.7665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Clans",
+                "code": "06042",
+                "codeDepartement": "06",
+                "siren": "210600425",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 688
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1827,
+                    44.003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Coaraze",
+                "code": "06043",
+                "codeDepartement": "06",
+                "siren": "210600433",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06390"
+                ],
+                "population": 822
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3014,
+                    43.8693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Colle-sur-Loup",
+                "code": "06044",
+                "codeDepartement": "06",
+                "siren": "210600441",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06480"
+                ],
+                "population": 8143
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0975,
+                    43.6869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Collongues",
+                "code": "06045",
+                "codeDepartement": "06",
+                "siren": "210600458",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8642,
+                    43.8934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Colomars",
+                "code": "06046",
+                "codeDepartement": "06",
+                "siren": "210600466",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06670"
+                ],
+                "population": 3507
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2212,
+                    43.757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Conségudes",
+                "code": "06047",
+                "codeDepartement": "06",
+                "siren": "210600474",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06510"
+                ],
+                "population": 99
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0395,
+                    43.8395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Contes",
+                "code": "06048",
+                "codeDepartement": "06",
+                "siren": "210600482",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06390"
+                ],
+                "population": 7722
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3263,
+                    43.8133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Courmes",
+                "code": "06049",
+                "codeDepartement": "06",
+                "siren": "210600490",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06620"
+                ],
+                "population": 108
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0196,
+                    43.7514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Coursegoules",
+                "code": "06050",
+                "codeDepartement": "06",
+                "siren": "210600508",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06140"
+                ],
+                "population": 545
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0384,
+                    43.7898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Croix-sur-Roudoule",
+                "code": "06051",
+                "codeDepartement": "06",
+                "siren": "210600516",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 98
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.871,
+                    44.0032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Cuébris",
+                "code": "06052",
+                "codeDepartement": "06",
+                "siren": "210600524",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 132
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9955,
+                    43.889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Daluis",
+                "code": "06053",
+                "codeDepartement": "06",
+                "siren": "210600532",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 145
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8045,
+                    44.0426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Drap",
+                "code": "06054",
+                "codeDepartement": "06",
+                "siren": "210600540",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06340"
+                ],
+                "population": 5300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3395,
+                    43.7587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Duranus",
+                "code": "06055",
+                "codeDepartement": "06",
+                "siren": "210600557",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06670"
+                ],
+                "population": 159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2796,
+                    43.8954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Entraunes",
+                "code": "06056",
+                "codeDepartement": "06",
+                "siren": "210600565",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 130
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.763,
+                    44.2215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "L'Escarène",
+                "code": "06057",
+                "codeDepartement": "06",
+                "siren": "210600573",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06440"
+                ],
+                "population": 2563
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3665,
+                    43.8303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Escragnolles",
+                "code": "06058",
+                "codeDepartement": "06",
+                "siren": "210600581",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06460"
+                ],
+                "population": 621
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7758,
+                    43.7236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Èze",
+                "code": "06059",
+                "codeDepartement": "06",
+                "siren": "210600599",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06360"
+                ],
+                "population": 2155
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3566,
+                    43.7299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Falicon",
+                "code": "06060",
+                "codeDepartement": "06",
+                "siren": "210600607",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06950"
+                ],
+                "population": 2170
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.266,
+                    43.7533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Les Ferres",
+                "code": "06061",
+                "codeDepartement": "06",
+                "siren": "210600615",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06510"
+                ],
+                "population": 93
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0966,
+                    43.8424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Fontan",
+                "code": "06062",
+                "codeDepartement": "06",
+                "siren": "210600623",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06540"
+                ],
+                "population": 309
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5527,
+                    44.0213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Gars",
+                "code": "06063",
+                "codeDepartement": "06",
+                "siren": "210600631",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06850"
+                ],
+                "population": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8202,
+                    43.8612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Gattières",
+                "code": "06064",
+                "codeDepartement": "06",
+                "siren": "210600649",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06510"
+                ],
+                "population": 4345
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1675,
+                    43.769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Gaude",
+                "code": "06065",
+                "codeDepartement": "06",
+                "siren": "210600656",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06610"
+                ],
+                "population": 7194
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1605,
+                    43.7177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Gilette",
+                "code": "06066",
+                "codeDepartement": "06",
+                "siren": "210600664",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06830"
+                ],
+                "population": 1617
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1602,
+                    43.8436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Gorbio",
+                "code": "06067",
+                "codeDepartement": "06",
+                "siren": "210600672",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06500"
+                ],
+                "population": 1568
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4476,
+                    43.787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Gourdon",
+                "code": "06068",
+                "codeDepartement": "06",
+                "siren": "210600680",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06620"
+                ],
+                "population": 365
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9622,
+                    43.7266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Grasse",
+                "code": "06069",
+                "codeDepartement": "06",
+                "siren": "210600698",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06130",
+                    "06520"
+                ],
+                "population": 48669
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.937,
+                    43.656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Gréolières",
+                "code": "06070",
+                "codeDepartement": "06",
+                "siren": "210600706",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06620"
+                ],
+                "population": 606
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9296,
+                    43.8037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Guillaumes",
+                "code": "06071",
+                "codeDepartement": "06",
+                "siren": "210600714",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 586
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8673,
+                    44.1007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Ilonse",
+                "code": "06072",
+                "codeDepartement": "06",
+                "siren": "210600722",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0901,
+                    44.0319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Isola",
+                "code": "06073",
+                "codeDepartement": "06",
+                "siren": "210600730",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 652
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0835,
+                    44.1903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Lantosque",
+                "code": "06074",
+                "codeDepartement": "06",
+                "siren": "210600748",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06450"
+                ],
+                "population": 1197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3121,
+                    43.9787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Levens",
+                "code": "06075",
+                "codeDepartement": "06",
+                "siren": "210600755",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06670"
+                ],
+                "population": 5366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2358,
+                    43.8501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Lieuche",
+                "code": "06076",
+                "codeDepartement": "06",
+                "siren": "210600763",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 51
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0361,
+                    44.0001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Lucéram",
+                "code": "06077",
+                "codeDepartement": "06",
+                "siren": "210600771",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06440"
+                ],
+                "population": 1249
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3506,
+                    43.8997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Malaussène",
+                "code": "06078",
+                "codeDepartement": "06",
+                "siren": "210600789",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06710"
+                ],
+                "population": 327
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1389,
+                    43.9146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Mandelieu-la-Napoule",
+                "code": "06079",
+                "codeDepartement": "06",
+                "siren": "210600797",
+                "codeEpci": "200039915",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06210"
+                ],
+                "population": 21201
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.918,
+                    43.5334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Marie",
+                "code": "06080",
+                "codeDepartement": "06",
+                "siren": "210600805",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1668,
+                    44.0319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Le Mas",
+                "code": "06081",
+                "codeDepartement": "06",
+                "siren": "210600813",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 98
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8572,
+                    43.8388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Massoins",
+                "code": "06082",
+                "codeDepartement": "06",
+                "siren": "210600821",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06710"
+                ],
+                "population": 127
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1305,
+                    43.9552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Menton",
+                "code": "06083",
+                "codeDepartement": "06",
+                "siren": "210600839",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06500"
+                ],
+                "population": 30326
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.498,
+                    43.7961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Mouans-Sartoux",
+                "code": "06084",
+                "codeDepartement": "06",
+                "siren": "210600847",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06370"
+                ],
+                "population": 10847
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9677,
+                    43.6192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Mougins",
+                "code": "06085",
+                "codeDepartement": "06",
+                "siren": "210600854",
+                "codeEpci": "200039915",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06250"
+                ],
+                "population": 19481
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0046,
+                    43.5931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Moulinet",
+                "code": "06086",
+                "codeDepartement": "06",
+                "siren": "210600862",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06380"
+                ],
+                "population": 253
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4128,
+                    43.9503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Les Mujouls",
+                "code": "06087",
+                "codeDepartement": "06",
+                "siren": "210600870",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 38
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8649,
+                    43.8728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Nice",
+                "code": "06088",
+                "codeDepartement": "06",
+                "siren": "210600888",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06000",
+                    "06100",
+                    "06200",
+                    "06300"
+                ],
+                "population": 353701
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2528,
+                    43.7032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Opio",
+                "code": "06089",
+                "codeDepartement": "06",
+                "siren": "210600896",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06650"
+                ],
+                "population": 2408
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0094,
+                    43.6574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Pégomas",
+                "code": "06090",
+                "codeDepartement": "06",
+                "siren": "210600904",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06580"
+                ],
+                "population": 8143
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9213,
+                    43.5886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Peille",
+                "code": "06091",
+                "codeDepartement": "06",
+                "siren": "210600912",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06440"
+                ],
+                "population": 2205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4088,
+                    43.8043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Peillon",
+                "code": "06092",
+                "codeDepartement": "06",
+                "siren": "210600920",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06440"
+                ],
+                "population": 1427
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3668,
+                    43.7727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Penne",
+                "code": "06093",
+                "codeDepartement": "06",
+                "siren": "210600938",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 256
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9361,
+                    43.9202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Péone",
+                "code": "06094",
+                "codeDepartement": "06",
+                "siren": "210600946",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 1079
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.925,
+                    44.1333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Peymeinade",
+                "code": "06095",
+                "codeDepartement": "06",
+                "siren": "210600953",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06530"
+                ],
+                "population": 8491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8807,
+                    43.6289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Pierlas",
+                "code": "06096",
+                "codeDepartement": "06",
+                "siren": "210600961",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 99
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0177,
+                    44.035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Pierrefeu",
+                "code": "06097",
+                "codeDepartement": "06",
+                "siren": "210600979",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 339
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0743,
+                    43.8883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Puget-Rostang",
+                "code": "06098",
+                "codeDepartement": "06",
+                "siren": "210600987",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 121
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9333,
+                    44.0056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Puget-Théniers",
+                "code": "06099",
+                "codeDepartement": "06",
+                "siren": "210600995",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 1803
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9049,
+                    43.9498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Revest-les-Roches",
+                "code": "06100",
+                "codeDepartement": "06",
+                "siren": "210601001",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06830"
+                ],
+                "population": 235
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1693,
+                    43.8823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Rigaud",
+                "code": "06101",
+                "codeDepartement": "06",
+                "siren": "210601019",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 167
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.976,
+                    43.9942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Rimplas",
+                "code": "06102",
+                "codeDepartement": "06",
+                "siren": "210601027",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 154
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1449,
+                    44.0997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Roquebillière",
+                "code": "06103",
+                "codeDepartement": "06",
+                "siren": "210601035",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06450"
+                ],
+                "population": 1816
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2885,
+                    44.0282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Roquebrune-Cap-Martin",
+                "code": "06104",
+                "codeDepartement": "06",
+                "siren": "210601043",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06190"
+                ],
+                "population": 12419
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4576,
+                    43.7638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Roquefort-les-Pins",
+                "code": "06105",
+                "codeDepartement": "06",
+                "siren": "210601050",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06330"
+                ],
+                "population": 7284
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0565,
+                    43.6723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Roquestéron",
+                "code": "06106",
+                "codeDepartement": "06",
+                "siren": "210601068",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 557
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0232,
+                    43.8696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Roque-en-Provence",
+                "code": "06107",
+                "codeDepartement": "06",
+                "siren": "210601076",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 66
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9916,
+                    43.8494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Roquette-sur-Siagne",
+                "code": "06108",
+                "codeDepartement": "06",
+                "siren": "210601084",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06550"
+                ],
+                "population": 5552
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9475,
+                    43.5853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Roquette-sur-Var",
+                "code": "06109",
+                "codeDepartement": "06",
+                "siren": "210601092",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06670"
+                ],
+                "population": 933
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2072,
+                    43.8328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Roubion",
+                "code": "06110",
+                "codeDepartement": "06",
+                "siren": "210601100",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 114
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0233,
+                    44.1121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Roure",
+                "code": "06111",
+                "codeDepartement": "06",
+                "siren": "210601118",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 111
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0603,
+                    44.1139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Le Rouret",
+                "code": "06112",
+                "codeDepartement": "06",
+                "siren": "210601126",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06650"
+                ],
+                "population": 4198
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0081,
+                    43.6803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Sainte-Agnès",
+                "code": "06113",
+                "codeDepartement": "06",
+                "siren": "210601134",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06500"
+                ],
+                "population": 1365
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4605,
+                    43.8046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-André-de-la-Roche",
+                "code": "06114",
+                "codeDepartement": "06",
+                "siren": "210601142",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06730"
+                ],
+                "population": 5877
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2875,
+                    43.7455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Antonin",
+                "code": "06115",
+                "codeDepartement": "06",
+                "siren": "210601159",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 84
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9739,
+                    43.9085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Auban",
+                "code": "06116",
+                "codeDepartement": "06",
+                "siren": "210601167",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06850"
+                ],
+                "population": 204
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7367,
+                    43.8319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Blaise",
+                "code": "06117",
+                "codeDepartement": "06",
+                "siren": "210601175",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06670"
+                ],
+                "population": 1391
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2283,
+                    43.8132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Cézaire-sur-Siagne",
+                "code": "06118",
+                "codeDepartement": "06",
+                "siren": "210601183",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06530"
+                ],
+                "population": 3971
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8049,
+                    43.6592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Dalmas-le-Selvage",
+                "code": "06119",
+                "codeDepartement": "06",
+                "siren": "210601191",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06660"
+                ],
+                "population": 102
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8452,
+                    44.281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Étienne-de-Tinée",
+                "code": "06120",
+                "codeDepartement": "06",
+                "siren": "210601209",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06660"
+                ],
+                "population": 1269
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9252,
+                    44.2597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Jean-Cap-Ferrat",
+                "code": "06121",
+                "codeDepartement": "06",
+                "siren": "210601217",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06230"
+                ],
+                "population": 1476
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3349,
+                    43.6883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Jeannet",
+                "code": "06122",
+                "codeDepartement": "06",
+                "siren": "210601225",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06640"
+                ],
+                "population": 4378
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1477,
+                    43.7619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Laurent-du-Var",
+                "code": "06123",
+                "codeDepartement": "06",
+                "siren": "210601233",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06700"
+                ],
+                "population": 31645
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1822,
+                    43.6865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Léger",
+                "code": "06124",
+                "codeDepartement": "06",
+                "siren": "210601241",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06260"
+                ],
+                "population": 57
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8189,
+                    44.0014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Martin-d'Entraunes",
+                "code": "06125",
+                "codeDepartement": "06",
+                "siren": "210601258",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 146
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7492,
+                    44.1453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Martin-du-Var",
+                "code": "06126",
+                "codeDepartement": "06",
+                "siren": "210601266",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06670"
+                ],
+                "population": 3403
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2012,
+                    43.8168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Martin-Vésubie",
+                "code": "06127",
+                "codeDepartement": "06",
+                "siren": "210601274",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06450"
+                ],
+                "population": 1379
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.307,
+                    44.0944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Paul-de-Vence",
+                "code": "06128",
+                "codeDepartement": "06",
+                "siren": "210601282",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06570"
+                ],
+                "population": 3190
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1196,
+                    43.6928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Sauveur-sur-Tinée",
+                "code": "06129",
+                "codeDepartement": "06",
+                "siren": "210601290",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 295
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1226,
+                    44.1163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saint-Vallier-de-Thiey",
+                "code": "06130",
+                "codeDepartement": "06",
+                "siren": "210601308",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06460"
+                ],
+                "population": 3662
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8516,
+                    43.6994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Sallagriffon",
+                "code": "06131",
+                "codeDepartement": "06",
+                "siren": "210601316",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 47
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9117,
+                    43.8805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Saorge",
+                "code": "06132",
+                "codeDepartement": "06",
+                "siren": "210601324",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06540"
+                ],
+                "population": 432
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5403,
+                    43.9935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Sauze",
+                "code": "06133",
+                "codeDepartement": "06",
+                "siren": "210601332",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 69
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7987,
+                    44.0862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Séranon",
+                "code": "06134",
+                "codeDepartement": "06",
+                "siren": "210601340",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06750"
+                ],
+                "population": 537
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6892,
+                    43.7655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Sigale",
+                "code": "06135",
+                "codeDepartement": "06",
+                "siren": "210601357",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06910"
+                ],
+                "population": 202
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9652,
+                    43.8742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Sospel",
+                "code": "06136",
+                "codeDepartement": "06",
+                "siren": "210601365",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06380"
+                ],
+                "population": 3807
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4493,
+                    43.8872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Spéracèdes",
+                "code": "06137",
+                "codeDepartement": "06",
+                "siren": "210601373",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06530"
+                ],
+                "population": 1180
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8573,
+                    43.652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Théoule-sur-Mer",
+                "code": "06138",
+                "codeDepartement": "06",
+                "siren": "210601381",
+                "codeEpci": "200039915",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06590"
+                ],
+                "population": 1418
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9303,
+                    43.499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Thiéry",
+                "code": "06139",
+                "codeDepartement": "06",
+                "siren": "210601399",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06710"
+                ],
+                "population": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0365,
+                    43.9759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Le Tignet",
+                "code": "06140",
+                "codeDepartement": "06",
+                "siren": "210601407",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06530"
+                ],
+                "population": 3158
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8538,
+                    43.6257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Toudon",
+                "code": "06141",
+                "codeDepartement": "06",
+                "siren": "210601415",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06830"
+                ],
+                "population": 353
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1094,
+                    43.8857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Touët-de-l'Escarène",
+                "code": "06142",
+                "codeDepartement": "06",
+                "siren": "210601423",
+                "codeEpci": "240600593",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06440"
+                ],
+                "population": 303
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3799,
+                    43.8516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Touët-sur-Var",
+                "code": "06143",
+                "codeDepartement": "06",
+                "siren": "210601431",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06710"
+                ],
+                "population": 743
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0091,
+                    43.9433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Tour",
+                "code": "06144",
+                "codeDepartement": "06",
+                "siren": "210601449",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 540
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.196,
+                    43.9645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Tourette-du-Château",
+                "code": "06145",
+                "codeDepartement": "06",
+                "siren": "210601456",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06830"
+                ],
+                "population": 147
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1365,
+                    43.8812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Tournefort",
+                "code": "06146",
+                "codeDepartement": "06",
+                "siren": "210601464",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 147
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1596,
+                    43.942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Tourrette-Levens",
+                "code": "06147",
+                "codeDepartement": "06",
+                "siren": "210601472",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06690"
+                ],
+                "population": 4633
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.275,
+                    43.7882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Tourrettes-sur-Loup",
+                "code": "06148",
+                "codeDepartement": "06",
+                "siren": "210601480",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06140"
+                ],
+                "population": 4126
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0353,
+                    43.718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Trinité",
+                "code": "06149",
+                "codeDepartement": "06",
+                "siren": "210601498",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06340"
+                ],
+                "population": 10485
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3413,
+                    43.7415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Turbie",
+                "code": "06150",
+                "codeDepartement": "06",
+                "siren": "210601506",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06320"
+                ],
+                "population": 3012
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3973,
+                    43.7462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Utelle",
+                "code": "06151",
+                "codeDepartement": "06",
+                "siren": "210601514",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06450"
+                ],
+                "population": 824
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2458,
+                    43.9392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Valbonne",
+                "code": "06152",
+                "codeDepartement": "06",
+                "siren": "210601522",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06560"
+                ],
+                "population": 12389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0291,
+                    43.6267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Valdeblore",
+                "code": "06153",
+                "codeDepartement": "06",
+                "siren": "210601530",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06420"
+                ],
+                "population": 834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1949,
+                    44.1152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Valderoure",
+                "code": "06154",
+                "codeDepartement": "06",
+                "siren": "210601548",
+                "codeEpci": "200039857",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06750"
+                ],
+                "population": 517
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7038,
+                    43.7943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Vallauris",
+                "code": "06155",
+                "codeDepartement": "06",
+                "siren": "210601555",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06220"
+                ],
+                "population": 28579
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0604,
+                    43.5787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Venanson",
+                "code": "06156",
+                "codeDepartement": "06",
+                "siren": "210601563",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06450"
+                ],
+                "population": 197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2386,
+                    44.0412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Vence",
+                "code": "06157",
+                "codeDepartement": "06",
+                "siren": "210601571",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06140"
+                ],
+                "population": 19856
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0995,
+                    43.7373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Villars-sur-Var",
+                "code": "06158",
+                "codeDepartement": "06",
+                "siren": "210601589",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06710"
+                ],
+                "population": 783
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.076,
+                    43.9564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Villefranche-sur-Mer",
+                "code": "06159",
+                "codeDepartement": "06",
+                "siren": "210601597",
+                "codeEpci": "200030195",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06230"
+                ],
+                "population": 5012
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3243,
+                    43.7081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Villeneuve-d'Entraunes",
+                "code": "06160",
+                "codeDepartement": "06",
+                "siren": "210601605",
+                "codeEpci": "200039931",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06470"
+                ],
+                "population": 87
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.774,
+                    44.1301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Villeneuve-Loubet",
+                "code": "06161",
+                "codeDepartement": "06",
+                "siren": "210601613",
+                "codeEpci": "240600585",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06270"
+                ],
+                "population": 16729
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0984,
+                    43.647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "La Brigue",
+                "code": "06162",
+                "codeDepartement": "06",
+                "siren": "210601621",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06430"
+                ],
+                "population": 741
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6496,
+                    44.0897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nom": "Tende",
+                "code": "06163",
+                "codeDepartement": "06",
+                "siren": "210601639",
+                "codeEpci": "240600551",
+                "codeRegion": "93",
+                "codesPostaux": [
+                    "06430"
+                ],
+                "population": 1898
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5499,
+                    44.0971
+                ]
+            }
+        }
+    ]
+}

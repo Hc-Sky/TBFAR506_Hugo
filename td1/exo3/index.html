@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Exo 3 – Leaflet+</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <style>
+    html,body{height:100%;margin:0}
+    #map{height:100vh}
+    .toolbar{
+      position:absolute;z-index:1000;left:10px;top:10px;background:#fff;border:1px solid #e5e7eb;border-radius:12px;
+      padding:.75rem;box-shadow:0 1px 2px rgba(0,0,0,.08);display:flex;gap:.5rem;flex-wrap:wrap;align-items:center
+    }
+    select, input, button{padding:.4rem .6rem;border-radius:8px;border:1px solid #d1d5db}
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <div class="toolbar">
+    <a href="../index.html">⬅︎ Menu</a>
+    <label>Fond&nbsp;:
+      <select id="basemap">
+        <option value="osm">OpenStreetMap</option>
+        <option value="stamen-toner">Stamen Toner</option>
+        <option value="stamen-terrain">Stamen Terrain</option>
+        <option value="stamen-watercolor">Stamen Watercolor</option>
+        <option value="carto-light">Carto Light</option>
+        <option value="carto-dark">Carto Dark</option>
+      </select>
+    </label>
+    <span id="basemap-status" style="font-size:.8rem;color:#6b7280">Fond: prêt</span>
+    <button id="btn-geojson-sample">Charger GeoJSON (local)</button>
+    <input id="geojson-url" size="40" placeholder="URL GeoJSON (ex: https://...)" />
+    <button id="btn-geojson-load">Charger URL</button>
+    <span id="dist">Distance Marseille ⇄ Vous&nbsp;: –</span>
+    <button id="btn-communes-load">Charger Communes 06</button>
+    <button id="btn-communes-clear">Effacer</button>
+    <span id="dataset-status" style="font-size:.8rem;color:#6b7280">Communes: –</span>
+    <hr style="width:100%;border:none;border-top:1px solid #e5e7eb;margin:.25rem 0" />
+    <label>Itinéraire fournisseur:
+      <select id="route-provider">
+        <option value="mapbox">Mapbox</option>
+        <option value="google">Google Maps (stub)</option>
+      </select>
+    </label>
+    <input id="route-start" placeholder="lat,lng départ (ex: 43.7,7.268)" size="26" />
+    <input id="route-end" placeholder="lat,lng arrivée (ex: 43.2965,5.3698)" size="26" />
+    <button id="btn-route">Tracer route</button>
+    <button id="btn-route-clear">Effacer route</button>
+    <span id="route-status" style="font-size:.8rem;color:#6b7280">Route: –</span>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>

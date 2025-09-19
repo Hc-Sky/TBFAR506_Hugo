@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Exo 1 – Géolocalisation</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;padding:1rem;line-height:1.5;}
+    h1{margin:.5rem 0 1rem}
+    .card{border:1px solid #e5e7eb;border-radius:12px;padding:1rem;margin-bottom:1rem;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+    .row{display:grid;grid-template-columns:160px 1fr;gap:.25rem .75rem;align-items:center}
+    .btns{display:flex;gap:.5rem;flex-wrap:wrap}
+    button{padding:.6rem .9rem;border-radius:10px;border:1px solid #d1d5db;background:#f9fafb;cursor:pointer}
+    button:hover{background:#f3f4f6}
+    code{background:#f6f8fa;border:1px solid #eaecef;padding:.15rem .35rem;border-radius:6px}
+    .err{color:#b91c1c}
+    .footer{margin-top:1rem}
+  </style>
+</head>
+<body>
+  <h1>Exercice 1 – Géolocalisation</h1>
+  <p>Affiche la position, la précision, la vitesse et la date depuis le timestamp.</p>
+
+  <div class="card">
+    <div class="btns">
+      <button id="btn-once">Mesure unique (getCurrentPosition)</button>
+      <button id="btn-start">Démarrer suivi (watchPosition)</button>
+      <button id="btn-stop">Arrêter suivi</button>
+      <label><input type="checkbox" id="opt-hea" checked> Haute précision</label>
+    </div>
+    <div id="status"></div>
+  </div>
+
+  <div class="card">
+    <div class="row"><strong>Latitude&nbsp;:</strong><span id="lat">–</span></div>
+    <div class="row"><strong>Longitude&nbsp;:</strong><span id="lng">–</span></div>
+    <div class="row"><strong>Altitude&nbsp;:</strong><span id="alt">–</span></div>
+    <div class="row"><strong>Précision&nbsp;:</strong><span id="acc">–</span></div>
+    <div class="row"><strong>Vitesse&nbsp;:</strong><span id="spd">–</span></div>
+    <div class="row"><strong>Date&nbsp;:</strong><span id="ts">–</span></div>
+    <div class="row"><strong>Source&nbsp;:</strong><span id="source">–</span></div>
+  </div>
+
+  <p class="footer"><a href="../index.html">⬅︎ Retour au menu</a></p>
+
+  <script src="geoloc.js"></script>
+</body>
+</html>
