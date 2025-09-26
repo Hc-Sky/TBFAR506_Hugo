@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TBFAR506 – Ateliers multimédia</title>
+    <meta http-equiv="refresh" content="4; url=td1/index.html" />
+    <meta name="description" content="Point d\'entrée vers les ateliers multimédia TD1 et TD2." />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        color: #0f172a;
+        background: radial-gradient(circle at top, #eff6ff 0%, #e2e8f0 35%, #f8fafc 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1.5rem;
+      }
+      .wrapper {
+        width: min(960px, 100%);
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 24px;
+        padding: clamp(1.75rem, 4vw, 3rem);
+        box-shadow: 0 30px 60px -35px rgba(15, 23, 42, 0.55);
+        display: grid;
+        gap: clamp(1.5rem, 4vw, 2.5rem);
+      }
+      header h1 {
+        margin: 0 0 0.5rem;
+        font-size: clamp(2rem, 6vw, 3.2rem);
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+      }
+      header p {
+        margin: 0;
+        font-size: clamp(1.1rem, 3vw, 1.35rem);
+        color: #475569;
+      }
+      .cta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.85rem;
+      }
+      .cta a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0.85rem 1.45rem;
+        border-radius: 999px;
+        font-weight: 600;
+        text-decoration: none;
+        transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease, color 160ms ease;
+        white-space: nowrap;
+      }
+      .cta a.primary {
+        background: linear-gradient(135deg, #2563eb, #3b82f6);
+        color: #f8fafc;
+        box-shadow: 0 18px 35px -22px rgba(37, 99, 235, 0.9);
+      }
+      .cta a.primary:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 22px 40px -25px rgba(37, 99, 235, 0.9);
+      }
+      .cta a.secondary {
+        background: rgba(148, 163, 184, 0.18);
+        color: #1e293b;
+      }
+      .cta a.secondary:hover {
+        background: rgba(148, 163, 184, 0.28);
+        transform: translateY(-2px);
+      }
+      .cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 1.25rem;
+      }
+      .card {
+        background: linear-gradient(160deg, rgba(15, 23, 42, 0.06), rgba(15, 23, 42, 0));
+        border: 1px solid rgba(148, 163, 184, 0.25);
+        border-radius: 18px;
+        padding: 1.25rem 1.45rem;
+        display: grid;
+        gap: 0.65rem;
+        transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+      }
+      .card:hover {
+        transform: translateY(-4px);
+        border-color: rgba(59, 130, 246, 0.45);
+        box-shadow: 0 20px 35px -32px rgba(37, 99, 235, 0.9);
+      }
+      .card h2 {
+        margin: 0;
+        font-size: 1.25rem;
+        color: #1e293b;
+      }
+      .card p {
+        margin: 0;
+        color: #475569;
+        line-height: 1.5;
+      }
+      .card a {
+        justify-self: flex-start;
+        font-weight: 600;
+        color: #2563eb;
+        text-decoration: none;
+      }
+      .card a:hover {
+        text-decoration: underline;
+      }
+      .autoredirect {
+        background: rgba(37, 99, 235, 0.08);
+        border-radius: 16px;
+        padding: 1rem 1.25rem;
+        font-size: 0.98rem;
+        color: #1e293b;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+      .autoredirect strong {
+        color: #1d4ed8;
+      }
+      footer {
+        font-size: 0.85rem;
+        color: #6b7280;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+      @media (max-width: 600px) {
+        .cta {
+          flex-direction: column;
+          align-items: stretch;
+        }
+        .cta a {
+          width: 100%;
+        }
+        footer {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrapper" role="main">
+      <header>
+        <h1>Ateliers TBFAR506</h1>
+        <p>Bienvenue sur l\'espace de restitution des TD multimédia. Vous allez être redirigé automatiquement vers le TD&nbsp;1 dans quelques secondes.</p>
+      </header>
+
+      <div class="autoredirect" role="status">
+        <strong>Redirection en cours…</strong>
+        <span>Si rien ne se passe, utilisez les boutons ci-dessous.</span>
+      </div>
+
+      <div class="cta">
+        <a class="primary" href="td1/index.html">Accéder au TD&nbsp;1</a>
+        <a class="secondary" href="#experiences">Explorer les autres expériences</a>
+      </div>
+
+      <section id="experiences" class="cards" aria-label="Autres modules">
+        <article class="card">
+          <h2>TD&nbsp;1 – Sensibilisation multimédia</h2>
+          <p>Géolocalisation, cartes interactives Leaflet et manipulation de données GeoJSON.</p>
+          <a href="td1/index.html">Ouvrir le TD 1</a>
+        </article>
+        <article class="card">
+          <h2>TD&nbsp;2 – Babylon.js</h2>
+          <p>Scène 3D interactive construite avec Babylon.js.</p>
+          <a href="TD2/babylon/">Consulter les sources</a>
+        </article>
+        <article class="card">
+          <h2>TD&nbsp;2 – Three.js</h2>
+          <p>Exploration de Three.js avec un pipeline Vite.</p>
+          <a href="TD2/threejs/">Consulter les sources</a>
+        </article>
+      </section>
+
+      <footer>
+        <span>Projet de Hugo Cohen-Cofflard – Université Côte d\'Azur</span>
+        <span>Page d\'accueil déployable via GitHub Pages</span>
+      </footer>
+    </main>
+  </body>
+</html>
