@@ -1,0 +1,86 @@
+{
+  "Sirius": {
+    "constellation": "Grand Chien",
+    "type": "A1V",
+    "distance": 8.6,
+    "temperature": 9940,
+    "illustration": "assets/stars/sirius.jpg"
+  },
+  "Polaris": {
+    "constellation": "Petite Ourse",
+    "type": "F7Ib",
+    "distance": 433,
+    "temperature": 6015,
+    "illustration": "assets/stars/polaris.jpg"
+  },
+  "Betelgeuse": {
+    "constellation": "Orion",
+    "type": "M1-2Ia-Iab",
+    "distance": 548,
+    "temperature": 3500,
+    "illustration": "assets/stars/betelgeuse.jpg"
+  },
+  "Rigel": {
+    "constellation": "Orion",
+    "type": "B8Ia",
+    "distance": 863,
+    "temperature": 12100,
+    "illustration": "assets/stars/rigel.jpg"
+  },
+  "Vega": {
+    "constellation": "Lyre",
+    "type": "A0V",
+    "distance": 25.0,
+    "temperature": 9602,
+    "illustration": "assets/stars/vega.jpg"
+  },
+  "Deneb": {
+    "constellation": "Cygne",
+    "type": "A2Ia",
+    "distance": 2615,
+    "temperature": 8525,
+    "illustration": "assets/stars/deneb.jpg"
+  },
+  "Altair": {
+    "constellation": "Aigle",
+    "type": "A7V",
+    "distance": 16.7,
+    "temperature": 7550,
+    "illustration": "assets/stars/altair.jpg"
+  },
+  "Antares": {
+    "constellation": "Scorpion",
+    "type": "M1.5Iab-b",
+    "distance": 554,
+    "temperature": 3500,
+    "illustration": "assets/stars/antares.jpg"
+  },
+  "Capella": {
+    "constellation": "Cocher",
+    "type": "G5III",
+    "distance": 42.9,
+    "temperature": 5700,
+    "illustration": "assets/stars/capella.jpg"
+  },
+  "Procyon": {
+    "constellation": "Petit Chien",
+    "type": "F5IV-V",
+    "distance": 11.5,
+    "temperature": 6530,
+    "illustration": "assets/stars/procyon.jpg"
+  },
+  "Fomalhaut": {
+    "constellation": "Poisson Austral",
+    "type": "A3V",
+    "distance": 25.1,
+    "temperature": 8650,
+    "illustration": "assets/stars/sirius.jpg"
+  },
+  "Aldebaran": {
+    "constellation": "Taureau",
+    "type": "K5III",
+    "distance": 65.1,
+    "temperature": 3910,
+    "illustration": "assets/stars/betelgeuse.jpg"
+  }
+}

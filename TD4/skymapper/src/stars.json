@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Achernar",
+    "ra": 24.43,
+    "dec": -57.24,
+    "mag": 0.46,
+    "color": "#b8dcff"
+  },
+  {
+    "name": "Achird",
+    "ra": 3.19,
+    "dec": 57.51,
+    "mag": 3.44,
+    "color": "#fff3d8"
+  },
+  {
+    "name": "Adhara",
+    "ra": 104.66,
+    "dec": -28.97,
+    "mag": 1.5,
+    "color": "#b8dcff"
+  },
+  {
+    "name": "Aldebaran",
+    "ra": 68.98,
+    "dec": 16.51,
+    "mag": 0.85,
+    "color": "#ffb37c"
+  },
+  {
+    "name": "Algenib",
+    "ra": 345.48,
+    "dec": 15.21,
+    "mag": 2.83,
+    "color": "#cce2ff"
+  },
+  {
+    "name": "Algieba",
+    "ra": 154.99,
+    "dec": 19.84,
+    "mag": 2.01,
+    "color": "#ffc58f"
+  },
+  {
+    "name": "Alioth",
+    "ra": 193.51,
+    "dec": 55.96,
+    "mag": 1.77,
+    "color": "#dde8ff"
+  },
+  {
+    "name": "Alkaid",
+    "ra": 206.88,
+    "dec": 49.31,
+    "mag": 1.85,
+    "color": "#d7e7ff"
+  },
+  {
+    "name": "Almach",
+    "ra": 30.97,
+    "dec": 42.33,
+    "mag": 2.1,
+    "color": "#ffce9f"
+  },
+  {
+    "name": "Alnilam",
+    "ra": 84.05,
+    "dec": -1.2,
+    "mag": 1.69,
+    "color": "#bcdcff"
+  },
+  {
+    "name": "Alnitak",
+    "ra": 85.19,
+    "dec": -1.94,
+    "mag": 2.05,
+    "color": "#bcdcff"
+  },
+  {
+    "name": "Alpha Centauri",
+    "ra": 219.9,
+    "dec": -60.84,
+    "mag": -0.27,
+    "color": "#ffd9b0"
+  },
+  {
+    "name": "Alpheratz",
+    "ra": 2.1,
+    "dec": 29.09,
+    "mag": 2.07,
+    "color": "#cfe6ff"
+  },
+  {
+    "name": "Alshain",
+    "ra": 297.04,
+    "dec": 6.43,
+    "mag": 3.71,
+    "color": "#ffe8c8"
+  },
+  {
+    "name": "Altair",
+    "ra": 297.7,
+    "dec": 8.87,
+    "mag": 0.77,
+    "color": "#d4e9ff"
+  },
+  {
+    "name": "Antares",
+    "ra": 247.35,
+    "dec": -26.43,
+    "mag": 0.96,
+    "color": "#ff9b6c"
+  },
+  {
+    "name": "Arcturus",
+    "ra": 213.92,
+    "dec": 19.18,
+    "mag": -0.05,
+    "color": "#ffd09e"
+  },
+  {
+    "name": "Astra-001",
+    "ra": 230.194,
+    "dec": -71.801,
+    "mag": 3.09,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-002",
+    "ra": 243.612,
+    "dec": 51.661,
+    "mag": 3.89,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-003",
+    "ra": 33.73,
+    "dec": -32.322,
+    "mag": 4.44,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-004",
+    "ra": 151.027,
+    "dec": -5.83,
+    "mag": 5.68,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-005",
+    "ra": 251.33,
+    "dec": -18.633,
+    "mag": 6.03,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-006",
+    "ra": 36.796,
+    "dec": -13.895,
+    "mag": 3.58,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-007",
+    "ra": 290.566,
+    "dec": 27.352,
+    "mag": 6.09,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-008",
+    "ra": 28.368,
+    "dec": -24.434,
+    "mag": 5.74,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-009",
+    "ra": 207.847,
+    "dec": 24.151,
+    "mag": 0.26,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-010",
+    "ra": 354.68,
+    "dec": 45.287,
+    "mag": 3.72,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-011",
+    "ra": 228.846,
+    "dec": -15.684,
+    "mag": 3.04,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-012",
+    "ra": 252.655,
+    "dec": 21.537,
+    "mag": 1.44,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-013",
+    "ra": 262.486,
+    "dec": -42.314,
+    "mag": 6.16,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-014",
+    "ra": 79.061,
+    "dec": -20.575,
+    "mag": 2.42,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-015",
+    "ra": 289.816,
+    "dec": -11.401,
+    "mag": 2.25,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-016",
+    "ra": 76.546,
+    "dec": -0.088,
+    "mag": 4.77,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-017",
+    "ra": 95.357,
+    "dec": -30.447,
+    "mag": 3.25,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-018",
+    "ra": 323.216,
+    "dec": -11.607,
+    "mag": 6.19,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-019",
+    "ra": 177.666,
+    "dec": 30.768,
+    "mag": 2.81,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-020",
+    "ra": 285.149,
+    "dec": -8.956,
+    "mag": 0.71,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-021",
+    "ra": 190.481,
+    "dec": 70.417,
+    "mag": 2.25,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-022",
+    "ra": 245.416,
+    "dec": 4.24,
+    "mag": 4.76,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-023",
+    "ra": 105.66,
+    "dec": -43.132,
+    "mag": 1.69,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-024",
+    "ra": 349.88,
+    "dec": 31.596,
+    "mag": 2.63,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-025",
+    "ra": 303.001,
+    "dec": 0.878,
+    "mag": 3.7,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-026",
+    "ra": 194.176,
+    "dec": 33.866,
+    "mag": 2.2,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-027",
+    "ra": 175.898,
+    "dec": -50.92,
+    "mag": 6.14,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-028",
+    "ra": 86.203,
+    "dec": -31.215,
+    "mag": 2.52,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-029",
+    "ra": 293.768,
+    "dec": 72.934,
+    "mag": 2.7,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-030",
+    "ra": 340.866,
+    "dec": -42.047,
+    "mag": 4.63,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-031",
+    "ra": 334.409,
+    "dec": 30.699,
+    "mag": 5.05,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-032",
+    "ra": 358.254,
+    "dec": 17.443,
+    "mag": 4.27,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-033",
+    "ra": 89.246,
+    "dec": -60.686,
+    "mag": 1.21,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-034",
+    "ra": 2.589,
+    "dec": 24.562,
+    "mag": -0.2,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-035",
+    "ra": 309.469,
+    "dec": -59.125,
+    "mag": 4.88,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-036",
+    "ra": 194.124,
+    "dec": 26.532,
+    "mag": 4.5,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-037",
+    "ra": 282.463,
+    "dec": 37.951,
+    "mag": 2.59,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-038",
+    "ra": 127.547,
+    "dec": -10.241,
+    "mag": 2.42,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-039",
+    "ra": 21.821,
+    "dec": 27.157,
+    "mag": 2.64,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-040",
+    "ra": 68.475,
+    "dec": -5.899,
+    "mag": 3.31,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-041",
+    "ra": 314.815,
+    "dec": -58.128,
+    "mag": 5.62,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-042",
+    "ra": 18.212,
+    "dec": 86.93,
+    "mag": 6.08,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-043",
+    "ra": 59.872,
+    "dec": -1.646,
+    "mag": 3.8,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-044",
+    "ra": 59.269,
+    "dec": -84.678,
+    "mag": 5.91,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-045",
+    "ra": 102.69,
+    "dec": 23.153,
+    "mag": 5.33,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-046",
+    "ra": 55.727,
+    "dec": -23.99,
+    "mag": 4.52,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-047",
+    "ra": 21.945,
+    "dec": -21.888,
+    "mag": 0.98,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-048",
+    "ra": 56.676,
+    "dec": 67.155,
+    "mag": 2.94,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-049",
+    "ra": 243.077,
+    "dec": -31.978,
+    "mag": 5.76,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-050",
+    "ra": 208.411,
+    "dec": -67.002,
+    "mag": 4.83,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-051",
+    "ra": 113.893,
+    "dec": -28.585,
+    "mag": 3.46,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-052",
+    "ra": 142.483,
+    "dec": 20.083,
+    "mag": 3.46,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-053",
+    "ra": 3.354,
+    "dec": 14.023,
+    "mag": 2.6,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-054",
+    "ra": 76.736,
+    "dec": -28.008,
+    "mag": 5.72,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-055",
+    "ra": 133.03,
+    "dec": -43.197,
+    "mag": 5.01,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-056",
+    "ra": 2.816,
+    "dec": 39.361,
+    "mag": 4.85,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-057",
+    "ra": 95.208,
+    "dec": 51.208,
+    "mag": 2.82,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-058",
+    "ra": 217.739,
+    "dec": 25.8,
+    "mag": 4.74,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-059",
+    "ra": 181.947,
+    "dec": -29.852,
+    "mag": 2.4,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-060",
+    "ra": 298.565,
+    "dec": -65.759,
+    "mag": 2.72,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-061",
+    "ra": 58.17,
+    "dec": -6.68,
+    "mag": 4.44,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-062",
+    "ra": 27.088,
+    "dec": 50.015,
+    "mag": 4.38,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-063",
+    "ra": 209.703,
+    "dec": -44.734,
+    "mag": 3.43,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-064",
+    "ra": 323.613,
+    "dec": -35.44,
+    "mag": 2.61,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-065",
+    "ra": 318.288,
+    "dec": -10.792,
+    "mag": 2.82,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-066",
+    "ra": 311.258,
+    "dec": 72.253,
+    "mag": 5.73,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-067",
+    "ra": 64.57,
+    "dec": 58.1,
+    "mag": 3.85,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-068",
+    "ra": 96.05,
+    "dec": 35.082,
+    "mag": 5.69,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-069",
+    "ra": 80.076,
+    "dec": 39.285,
+    "mag": 3.42,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-070",
+    "ra": 80.252,
+    "dec": 18.667,
+    "mag": 3.31,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-071",
+    "ra": 348.08,
+    "dec": -26.216,
+    "mag": 3.8,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-072",
+    "ra": 119.214,
+    "dec": -70.874,
+    "mag": 3.24,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-073",
+    "ra": 13.773,
+    "dec": 11.136,
+    "mag": 5.35,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-074",
+    "ra": 218.235,
+    "dec": 1.309,
+    "mag": 4.51,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-075",
+    "ra": 15.979,
+    "dec": -7.347,
+    "mag": 5.43,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-076",
+    "ra": 131.12,
+    "dec": -59.322,
+    "mag": 3.52,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-077",
+    "ra": 238.819,
+    "dec": -48.655,
+    "mag": 4.23,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-078",
+    "ra": 117.426,
+    "dec": 23.23,
+    "mag": 2.97,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-079",
+    "ra": 243.834,
+    "dec": 53.669,
+    "mag": 3.4,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-080",
+    "ra": 300.141,
+    "dec": -23.095,
+    "mag": 5.34,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-081",
+    "ra": 167.396,
+    "dec": -6.643,
+    "mag": 4.09,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-082",
+    "ra": 237.186,
+    "dec": -25.622,
+    "mag": 4.68,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-083",
+    "ra": 294.632,
+    "dec": 30.151,
+    "mag": 3.1,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-084",
+    "ra": 53.047,
+    "dec": -65.172,
+    "mag": 4.65,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-085",
+    "ra": 163.95,
+    "dec": 50.559,
+    "mag": 5.07,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-086",
+    "ra": 177.976,
+    "dec": -30.799,
+    "mag": 2.22,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-087",
+    "ra": 280.231,
+    "dec": -34.216,
+    "mag": 4.98,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-088",
+    "ra": 18.079,
+    "dec": -30.106,
+    "mag": 4.03,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-089",
+    "ra": 240.328,
+    "dec": 77.365,
+    "mag": 6.0,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-090",
+    "ra": 220.555,
+    "dec": 26.011,
+    "mag": 5.52,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-091",
+    "ra": 160.529,
+    "dec": -42.975,
+    "mag": 4.0,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-092",
+    "ra": 302.351,
+    "dec": -26.447,
+    "mag": 4.14,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-093",
+    "ra": 98.855,
+    "dec": -57.676,
+    "mag": 3.29,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-094",
+    "ra": 321.49,
+    "dec": -57.018,
+    "mag": 3.73,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-095",
+    "ra": 254.311,
+    "dec": -60.638,
+    "mag": 4.37,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-096",
+    "ra": 22.416,
+    "dec": 41.742,
+    "mag": 5.28,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-097",
+    "ra": 308.424,
+    "dec": 32.086,
+    "mag": 2.22,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-098",
+    "ra": 107.501,
+    "dec": -12.711,
+    "mag": 5.54,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-099",
+    "ra": 269.106,
+    "dec": 5.294,
+    "mag": 3.08,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-100",
+    "ra": 98.257,
+    "dec": -1.646,
+    "mag": 4.88,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-101",
+    "ra": 260.705,
+    "dec": 42.923,
+    "mag": 6.12,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-102",
+    "ra": 9.708,
+    "dec": -12.237,
+    "mag": 2.31,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-103",
+    "ra": 48.852,
+    "dec": -4.393,
+    "mag": 0.7,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-104",
+    "ra": 163.692,
+    "dec": -18.966,
+    "mag": 3.31,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-105",
+    "ra": 90.818,
+    "dec": -56.74,
+    "mag": 1.16,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-106",
+    "ra": 80.72,
+    "dec": -59.628,
+    "mag": 2.36,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-107",
+    "ra": 341.86,
+    "dec": -36.962,
+    "mag": 0.04,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-108",
+    "ra": 170.482,
+    "dec": -50.464,
+    "mag": 4.06,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-109",
+    "ra": 276.083,
+    "dec": -41.638,
+    "mag": 5.19,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-110",
+    "ra": 280.005,
+    "dec": -42.258,
+    "mag": 4.51,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-111",
+    "ra": 207.287,
+    "dec": 54.692,
+    "mag": 5.97,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-112",
+    "ra": 27.359,
+    "dec": 22.41,
+    "mag": 2.61,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-113",
+    "ra": 306.106,
+    "dec": 11.585,
+    "mag": 6.14,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-114",
+    "ra": 124.993,
+    "dec": -8.236,
+    "mag": 4.22,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-115",
+    "ra": 4.555,
+    "dec": -9.2,
+    "mag": 3.93,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-116",
+    "ra": 228.811,
+    "dec": 41.103,
+    "mag": 3.94,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-117",
+    "ra": 347.571,
+    "dec": -27.376,
+    "mag": 4.35,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-118",
+    "ra": 167.355,
+    "dec": 40.652,
+    "mag": 3.49,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-119",
+    "ra": 299.063,
+    "dec": -55.759,
+    "mag": 3.18,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-120",
+    "ra": 205.146,
+    "dec": 19.656,
+    "mag": 4.18,
+    "color": "#ffeedd"
+  },
+  {
+    "name": "Astra-121",
+    "ra": 65.462,
+    "dec": -35.153,
+    "mag": 3.56,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-122",
+    "ra": 200.085,
+    "dec": 1.906,
+    "mag": 3.17,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-123",
+    "ra": 175.888,
+    "dec": 31.086,
+    "mag": 4.78,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-124",
+    "ra": 161.343,
+    "dec": -74.909,
+    "mag": 3.82,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-125",
+    "ra": 110.234,
+    "dec": 9.388,
+    "mag": 4.32,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-126",
+    "ra": 358.787,
+    "dec": 5.784,
+    "mag": 4.01,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-127",
+    "ra": 90.505,
+    "dec": -49.349,
+    "mag": 2.68,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-128",
+    "ra": 342.316,
+    "dec": 22.354,
+    "mag": 5.15,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-129",
+    "ra": 260.851,
+    "dec": 72.404,
+    "mag": 3.33,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-130",
+    "ra": 299.746,
+    "dec": -24.048,
+    "mag": 3.41,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-131",
+    "ra": 45.57,
+    "dec": -65.363,
+    "mag": 0.45,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Astra-132",
+    "ra": 229.633,
+    "dec": 30.37,
+    "mag": 2.25,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-133",
+    "ra": 168.983,
+    "dec": -6.838,
+    "mag": 2.41,
+    "color": "#ffcbd9"
+  },
+  {
+    "name": "Astra-134",
+    "ra": 41.071,
+    "dec": -60.379,
+    "mag": 4.51,
+    "color": "#a8d8ff"
+  },
+  {
+    "name": "Astra-135",
+    "ra": 54.622,
+    "dec": 38.483,
+    "mag": 2.54,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-136",
+    "ra": 42.643,
+    "dec": 31.93,
+    "mag": 5.36,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-137",
+    "ra": 279.25,
+    "dec": -13.842,
+    "mag": 3.39,
+    "color": "#c8f1ff"
+  },
+  {
+    "name": "Astra-138",
+    "ra": 109.937,
+    "dec": 14.008,
+    "mag": 5.16,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-139",
+    "ra": 225.185,
+    "dec": -28.08,
+    "mag": 3.16,
+    "color": "#f0f7ff"
+  },
+  {
+    "name": "Astra-140",
+    "ra": 27.023,
+    "dec": -84.07,
+    "mag": 4.58,
+    "color": "#ffbba6"
+  },
+  {
+    "name": "Astra-141",
+    "ra": 11.75,
+    "dec": -25.074,
+    "mag": 5.64,
+    "color": "#bcd9ff"
+  },
+  {
+    "name": "Astra-142",
+    "ra": 247.459,
+    "dec": 57.976,
+    "mag": 4.7,
+    "color": "#ffd6a8"
+  },
+  {
+    "name": "Astra-143",
+    "ra": 153.05,
+    "dec": 5.113,
+    "mag": 5.83,
+    "color": "#ffffff"
+  },
+  {
+    "name": "Bellatrix",
+    "ra": 81.28,
+    "dec": 6.35,
+    "mag": 1.64,
+    "color": "#fff0d0"
+  },
+  {
+    "name": "Betelgeuse",
+    "ra": 88.79,
+    "dec": 7.41,
+    "mag": 0.45,
+    "color": "#ffba8c"
+  },
+  {
+    "name": "Canopus",
+    "ra": 95.99,
+    "dec": -52.7,
+    "mag": -0.74,
+    "color": "#ffd9b2"
+  },
+  {
+    "name": "Capella",
+    "ra": 79.17,
+    "dec": 45.99,
+    "mag": 0.08,
+    "color": "#fff5d0"
+  },
+  {
+    "name": "Caph",
+    "ra": 2.29,
+    "dec": 59.15,
+    "mag": 2.28,
+    "color": "#ffe7c5"
+  },
+  {
+    "name": "Deneb",
+    "ra": 310.36,
+    "dec": 45.28,
+    "mag": 1.25,
+    "color": "#c9e4ff"
+  },
+  {
+    "name": "Denebola",
+    "ra": 177.27,
+    "dec": 14.57,
+    "mag": 2.14,
+    "color": "#cbe2ff"
+  },
+  {
+    "name": "Dubhe",
+    "ra": 165.93,
+    "dec": 61.75,
+    "mag": 1.79,
+    "color": "#fff5dd"
+  },
+  {
+    "name": "Elnath",
+    "ra": 81.57,
+    "dec": 28.61,
+    "mag": 1.65,
+    "color": "#bcdcff"
+  },
+  {
+    "name": "Enif",
+    "ra": 333.99,
+    "dec": 9.88,
+    "mag": 2.38,
+    "color": "#ffd6aa"
+  },
+  {
+    "name": "Fomalhaut",
+    "ra": 344.41,
+    "dec": -29.62,
+    "mag": 1.16,
+    "color": "#aee0ff"
+  },
+  {
+    "name": "Gienah",
+    "ra": 292.68,
+    "dec": 33.97,
+    "mag": 2.48,
+    "color": "#d0e6ff"
+  },
+  {
+    "name": "Hadar",
+    "ra": 210.96,
+    "dec": -60.37,
+    "mag": 0.61,
+    "color": "#c4e2ff"
+  },
+  {
+    "name": "Kochab",
+    "ra": 222.68,
+    "dec": 74.16,
+    "mag": 2.08,
+    "color": "#fff1d8"
+  },
+  {
+    "name": "Markab",
+    "ra": 346.19,
+    "dec": 15.21,
+    "mag": 2.49,
+    "color": "#cfe4ff"
+  },
+  {
+    "name": "Megrez",
+    "ra": 183.86,
+    "dec": 57.03,
+    "mag": 3.31,
+    "color": "#dfeaff"
+  },
+  {
+    "name": "Merak",
+    "ra": 165.46,
+    "dec": 56.38,
+    "mag": 2.34,
+    "color": "#dce9ff"
+  },
+  {
+    "name": "Mintaka",
+    "ra": 83.0,
+    "dec": -0.3,
+    "mag": 2.23,
+    "color": "#bcdcff"
+  },
+  {
+    "name": "Mirach",
+    "ra": 17.43,
+    "dec": 35.62,
+    "mag": 2.05,
+    "color": "#ffd9b6"
+  },
+  {
+    "name": "Mizar",
+    "ra": 200.98,
+    "dec": 54.93,
+    "mag": 2.06,
+    "color": "#d7e5ff"
+  },
+  {
+    "name": "Phecda",
+    "ra": 177.27,
+    "dec": 53.69,
+    "mag": 2.43,
+    "color": "#dce9ff"
+  },
+  {
+    "name": "Polaris",
+    "ra": 37.95,
+    "dec": 89.26,
+    "mag": 2.0,
+    "color": "#ffeec7"
+  },
+  {
+    "name": "Pollux",
+    "ra": 116.33,
+    "dec": 28.03,
+    "mag": 1.14,
+    "color": "#ffd2a1"
+  },
+  {
+    "name": "Procyon",
+    "ra": 114.83,
+    "dec": 5.23,
+    "mag": 0.38,
+    "color": "#fff3d5"
+  },
+  {
+    "name": "Regulus",
+    "ra": 152.09,
+    "dec": 11.97,
+    "mag": 1.35,
+    "color": "#bcdcff"
+  },
+  {
+    "name": "Rigel",
+    "ra": 78.63,
+    "dec": -8.2,
+    "mag": 0.15,
+    "color": "#aee0ff"
+  },
+  {
+    "name": "Ruchbah",
+    "ra": 10.13,
+    "dec": 60.24,
+    "mag": 2.68,
+    "color": "#cfe1ff"
+  },
+  {
+    "name": "Sadr",
+    "ra": 305.56,
+    "dec": 40.26,
+    "mag": 2.23,
+    "color": "#d0e8ff"
+  },
+  {
+    "name": "Saiph",
+    "ra": 86.94,
+    "dec": -9.67,
+    "mag": 2.07,
+    "color": "#aee0ff"
+  },
+  {
+    "name": "Sargas",
+    "ra": 263.73,
+    "dec": -42.99,
+    "mag": 1.86,
+    "color": "#ffd0a0"
+  },
+  {
+    "name": "Scheat",
+    "ra": 345.94,
+    "dec": 28.08,
+    "mag": 2.42,
+    "color": "#cde3ff"
+  },
+  {
+    "name": "Schedar",
+    "ra": 10.13,
+    "dec": 56.54,
+    "mag": 2.24,
+    "color": "#ffd8b0"
+  },
+  {
+    "name": "Segin",
+    "ra": 28.66,
+    "dec": 63.67,
+    "mag": 2.45,
+    "color": "#cfe3ff"
+  },
+  {
+    "name": "Shaula",
+    "ra": 263.4,
+    "dec": -37.1,
+    "mag": 1.62,
+    "color": "#bce0ff"
+  },
+  {
+    "name": "Sheliak",
+    "ra": 281.19,
+    "dec": 33.36,
+    "mag": 3.45,
+    "color": "#cfe3ff"
+  },
+  {
+    "name": "Sirius",
+    "ra": 101.29,
+    "dec": -16.72,
+    "mag": -1.46,
+    "color": "#aaddff"
+  },
+  {
+    "name": "Spica",
+    "ra": 201.3,
+    "dec": -11.16,
+    "mag": 0.97,
+    "color": "#b4d4ff"
+  },
+  {
+    "name": "Sulafat",
+    "ra": 283.82,
+    "dec": 32.69,
+    "mag": 3.25,
+    "color": "#cfe3ff"
+  },
+  {
+    "name": "Tarazed",
+    "ra": 298.12,
+    "dec": 10.61,
+    "mag": 2.72,
+    "color": "#ffd8a6"
+  },
+  {
+    "name": "Vega",
+    "ra": 279.23,
+    "dec": 38.78,
+    "mag": 0.03,
+    "color": "#bcd9ff"
+  }
+]

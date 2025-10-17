@@ -287,8 +287,30 @@ function initLeafletMap() {
   
   leafletMap.on('click', (e) => {
     const { lat, lng } = e.latlng;
-    rotateEarthToLocation(lat, lng);
-    console.log(`🌍 Terre repositionnée sur: ${lat.toFixed(2)}, ${lng.toFixed(2)}`);
+    
+    // Trouver le pays le plus proche sans bouger la caméra
+    if (allCountryMeshes.length > 0) {
+      let nearest = null;
+      let minDist = Infinity;
+      
+      allCountryMeshes.forEach(mesh => {
+        if (mesh.metadata && mesh.metadata.type === 'marker') {
+          const dist = Math.sqrt(
+            Math.pow(mesh.metadata.lat - lat, 2) + 
+            Math.pow(mesh.metadata.lon - lng, 2)
+          );
+          if (dist < minDist) {
+            minDist = dist;
+            nearest = mesh;
+          }
+        }
+      });
+      
+      if (nearest && minDist < 10) {
+        highlightCountry(nearest, false);
+        console.log(`🗺️ Pays sélectionné: ${nearest.metadata.countryName || 'Position'}`);
+      }
+    }
   });
 }
 

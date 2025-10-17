@@ -1,0 +1,17 @@
+{
+  "name": "skymapper",
+  "version": "0.1.0",
+  "description": "SkyMapper - carte céleste 3D interactive générée par l'IA",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "babylonjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

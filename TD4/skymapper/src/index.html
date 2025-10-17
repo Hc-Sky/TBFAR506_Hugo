@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SkyMapper · Carte céleste 3D</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&family=Exo+2:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+  <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div id="intro-overlay" class="intro-overlay" hidden>
+        <div class="intro-overlay__content">
+          <img src="./assets/logo.png" alt="Logo SkyMapper" class="intro-overlay__logo" />
+          <h1 class="intro-overlay__title">SkyMapper</h1>
+          <p class="intro-overlay__subtitle">A cosmic experience generated with AI</p>
+        </div>
+      </div>
+      <canvas id="ciel-canvas"></canvas>
+      <div id="ui-controls" class="panel panel-left">
+        <div id="logo" aria-hidden="true">
+          <span class="logo__icon">✦</span>
+          <div class="logo__text">
+            <strong>SkyMapper</strong>
+            <span>Voyage céleste immersif</span>
+          </div>
+        </div>
+        <button id="btn-orientation" class="action-btn" data-active="false">📱 Activer orientation mobile</button>
+        <button id="btn-constellations" class="action-btn" data-active="false">🔭 Afficher constellations</button>
+        <button id="btn-mode" class="action-btn" data-active="true">☀️ Basculer mode jour/nuit</button>
+        <button id="btn-cometes" class="action-btn" data-active="true">☄️ Comètes</button>
+        <button id="btn-exploration" class="action-btn" data-active="false">🚀 Exploration libre</button>
+        <button id="btn-demo" class="action-btn" data-active="false">🎬 Mode démo automatique</button>
+        <button id="btn-audio" class="action-btn" data-active="false">🎧 Activer l'ambiance</button>
+        <button id="btn-apprentissage" class="action-btn" data-active="false">📘 Mode apprentissage</button>
+        <button id="btn-fullscreen" class="action-btn" data-active="false">🪐 Plein écran</button>
+      </div>
+      <div id="ui-search" class="panel panel-right">
+        <form id="form-recherche" class="search-bar" autocomplete="off">
+          <input id="champ-recherche" type="text" spellcheck="false" placeholder="🔎 Rechercher une étoile…" />
+          <button id="btn-recherche" type="submit">Aller</button>
+        </form>
+        <ul id="suggestions" class="suggestions" hidden></ul>
+        <div id="etoile-infos" class="info-card" hidden data-state="idle">
+          <div class="info-card__header">
+            <img id="etoile-illustration" alt="Illustration de l'étoile" loading="lazy" />
+            <div>
+              <strong id="etoile-nom">—</strong>
+              <span id="etoile-mag"></span>
+            </div>
+          </div>
+          <div class="info-card__body">
+            <p id="etoile-constellation"></p>
+            <p id="etoile-distance"></p>
+            <p id="etoile-type"></p>
+          </div>
+          <div class="info-card__footer">
+            <button id="btn-voir-constellation" class="chip-btn">🔭 Voir la constellation associée</button>
+            <button id="btn-fermer-info" class="chip-btn chip-btn--ghost">Fermer</button>
+          </div>
+        </div>
+      </div>
+      <div id="overlay-message" hidden></div>
+      <div id="demo-overlay-text" class="overlayText" hidden></div>
+      <div id="hud-orientation" class="hud">
+        <div class="hud__compass">
+          <div class="hud__labels">
+            <span>N</span>
+            <span>E</span>
+            <span>S</span>
+            <span>O</span>
+          </div>
+          <div id="hud-arrow" class="hud__arrow"></div>
+        </div>
+      </div>
+      <button id="btn-exit-focus" class="focus-exit" hidden aria-hidden="true">❌ Quitter le focus</button>
+    </div>
+
+  <audio id="audio-ambiance" src="./assets/audio/space_ambience.mp3" preload="auto" loop></audio>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
